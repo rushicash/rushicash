@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rushicash
-- 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: email: rushikesh.j.rokde@gmail.com
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently pursuing my CCNA and working as an IT Admin.
+- 📫 How to reach me: email: rushicash@protonmail.com
 
 <!---
 rushicash/rushicash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
