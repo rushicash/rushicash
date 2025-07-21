@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushicash
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently pursuing my CCNA and working as an IT Admin.
+- 👀 I’m interested in Cyber Security🔐
+- 🌱 I’m currently working as an IT Administrator who does it ALL.
 - 📫 How to reach me: email: rushicash@protonmail.com
 
 <!---
